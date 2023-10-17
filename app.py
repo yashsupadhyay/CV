@@ -65,7 +65,7 @@ st.write('\n')
 st.subheader("Experience & Qulifications")
 st.write(
     """
-- ✔️ 5 Year 7 Months expereince extracting actionable insights from data
+- ✔️ 5 Year 7 Months expereince in maintining & auditing technical records
 - ✔️ Strong hands on experience and knowledge in Technical Documents and Microsoft Apps
 - ✔️ Excellent team-player and displaying strong sense of initiative on tasks
 """
